@@ -1,5 +1,5 @@
-<h1 align="center">0m1rz4r</h1>
-<h3 align="center">SysAdmin and Cybersecurity</h3>
+<h1 align="center">ChiaraOS</h1>
+<h3 align="center">Comms and Cybersecurity Engineer</h3>
 
   
 <div align="center">
@@ -13,5 +13,5 @@
 
 ## About Me
 
-- `21` year old thingy
-- 💻 I’m currently learning `C#` and working on [CornerSpace](https://github.com/Omirzar1337/CornerSpace)
+- `22` year old thingy
+- 💻 I’m currently learning `FortiOS` and working on [Seshat](https://github.com/ChiaraOS/Seshat)
