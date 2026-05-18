@@ -3,7 +3,7 @@
 
   
 <div align="center">
-  <a href="https://steamcommunity.com/id/0m1rz4r" target="_blank">
+  <a href="https://steamcommunity.com/id/chiaraos" target="_blank">
     <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
 </div>
