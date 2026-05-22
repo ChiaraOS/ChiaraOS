@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Chiara+%F0%9F%96%A4;Communications+%26+Cybersecurity+Engineer;Homelab+Admin+%7C+JDM+Enjoyer;%3E+jack+in_" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CA22F7&vCenter=true&width=435&lines=ChiaraOS+Initializing...;Loading+Modules...+;Assigning+Memory..." alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -20,11 +20,10 @@
 $ cat /etc/chiara.conf
 
 Name     : Chiara
-Age      : 22
-Role     : Communications & Cybersecurity Engineer
-OS       : Nobara Linux  # btw
 Uptime   : 22 years
-Hobbies  : [homelab, code, music, racing, gaming]
+Role     : Communications & Cybersecurity Engineer
+OS       : Nobara Linux
+Hobbies  : [Random Techy Stuff, Music, Cards]
 Status   : Online ▐█▌
 ```
 
