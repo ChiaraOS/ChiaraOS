@@ -24,13 +24,10 @@ Hobbies  : [Random Techy Stuff, Music, Cards]
 Status   : Online 🟢
 ```
 
-- 👩‍💻 Passionate about **network security**, **infrastructure**, and breaking things (ethically)
-- 🏠 Running a full **homelab rack** — servers, switches, firewalls, the works
-- 🎵 Always have music on — from lo-fi beats to full eurobeat at 3AM
-- 🚗 JDM & motorsport head — solo touge runs or circuit days with company
-- 🎮 Online gamer — main rig or from bed via the rack node, doesn't matter
-- 📖 **Cyberpunk** literature & aesthetic enjoyer — *"The sky above the port was the color of television, tuned to a dead channel."*
-- 💬 Ask me about **firewalls**, **homelab**, or why the AE86 is perfect
+- 👩‍💻 Passionate about **Network Architecture & Security** and **Selfhosting**.
+- 🐈‍⬛ I LOVE ANIMALS <3
+- 📖 **Cyberpunk** literature & aesthetic enjoyer — *"All those moments will be lost in time, like tears in rain"*
+- 💬 Ask me about **Network Sec**, **Selfhosting**, or any other random thing.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
